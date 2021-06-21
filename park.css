@@ -57,3 +57,11 @@ button{
 	color: black;
 	text-decoration: none;
 }
+.card1{
+	border: 10px solid #27B98D;
+	width: 500px;
+}
+.vid{
+	width: 500px;
+	height: 250px;
+}
